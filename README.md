@@ -2,7 +2,10 @@
 Steps to use virtual environment with jupyter notebook  
 
 
-$ python -m venv projectname
-$ source projectname/bin/activate
-(venv) $ pip install ipykernel
-(venv) $ ipython kernel install --user --name=projectname
+python -m venv projectname
+
+source projectname/bin/activate
+
+pip install ipykernel
+
+ipython kernel install --user --name=projectname
