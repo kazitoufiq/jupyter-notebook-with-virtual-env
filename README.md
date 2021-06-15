@@ -8,6 +8,6 @@ python -m venv projectname
 
 source projectname/bin/activate
 
-pip install ipykernel
+pip3 install ipykernel
 
 ipython kernel install --user --name=projectname
