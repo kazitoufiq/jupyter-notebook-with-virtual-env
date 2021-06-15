@@ -2,7 +2,7 @@
 
 
 
-## Linux
+## Linux/Ubuntu
 
 ### best-practice is to ensure all packages are up to date
 apt-get update -y
