@@ -1,6 +1,8 @@
 # jupyter-notebook-with-virtual-env
-Steps to use virtual environment with jupyter notebook  
 
+## Steps to use virtual environment with jupyter notebook  
+
+### Linux
 
 python -m venv projectname
 
